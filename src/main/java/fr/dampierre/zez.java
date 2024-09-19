@@ -16,7 +16,7 @@ public class zez {
         System.out.println("Quel est l'adjectif?");
         String ADJ = clavier.next();
 
-        System.out.println("Quel est le nombre?");
+        System.out.println("Quel est le nombre du truc?");
         String nombre = clavier.next();
 
         System.out.println("Il était une fois un " + NOM1 + " qui avait " + nombre + " " + NOM2 + ". Cela le rendait très " + ADJ + ".");
