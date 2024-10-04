@@ -1,0 +1,10 @@
+prends 1 random
+var essais
+while
+    chiffrechoisi
+    si chiffrechoisi > random = trop grand
+    si chiffrechoisi < random = trop petit
+    sinon sortir de la while
+afficher le nombre d'essais
+
+---------------------------------------------------------------------------
