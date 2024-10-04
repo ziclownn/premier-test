@@ -12,7 +12,7 @@ public class main {
 
         // init variables
         int n = r.nextInt(101);
-        float nbc = 50;
+        var nbc = 50;
         int essai = 0;
 
         // boucle while
@@ -29,7 +29,7 @@ public class main {
                     nbc = nbc + (nbc/2);
                 }        
                 else{
-                    nbc = (int)(nbc + (nbc/2) + 0.5);
+                    nbc = (int)(nbc + (100 - (nbc + (nbc/2))) + 0.5);
                 }      
                 System.out.println("Trop petit !");
             } else {
