@@ -8,3 +8,13 @@ while
 afficher le nombre d'essais
 
 ---------------------------------------------------------------------------
+choisi un chiffre aléatoire entre 0 et 100 inclus
+on choisi 50
+on regarde :
+    si c'est trop petit :
+        on réessaie avec 25
+    si c'est trop grand :
+        on réessaie avec 75
+    si c'est égal :
+        on a gagné
+on affiche le nombre d'essais
