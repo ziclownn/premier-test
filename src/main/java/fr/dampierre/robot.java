@@ -2,7 +2,7 @@ package fr.dampierre;
 
 import  java.util.Random ;
 
-public class robot {
+public class dichotomie {
 
     public static void main(String[] args) {
 
