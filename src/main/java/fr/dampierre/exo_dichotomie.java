@@ -2,7 +2,7 @@ package fr.dampierre;
 
 import  java.util.Random ;
 
-public class dichotomie {
+public class exo_dichotomie {
 
     public static void main(String[] args) {
 
