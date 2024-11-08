@@ -34,6 +34,4 @@ public class exo_dichotomie {
         }
         System.out.println("Vous avez trouver en "+essai+" essais ! Le chiffre était : " + n);
     }
-
-        
 }
